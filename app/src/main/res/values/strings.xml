@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Country Search</string>
+    <string name="no_country_found">No Country Found</string>
+</resources>
